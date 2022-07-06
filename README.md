@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PadmaAswathi
-- 👀 I’m interested in Computational Social Science
+- 👀 I’m interested in Digitalization, Machine Learning and Computational Social Science
 - 🌱 I’m currently learning NLP and  Social wide networks
 - 💞️ How to reach me - aswathipv45@gmail.com
 
